@@ -1,0 +1,8 @@
+#python3 -m pip install -r requirements.txt
+pytz>=2016.3
+xlrd>=1.0.0
+xlwt>=0.9
+jenkinsapi>=0.3.3
+pexpect>=4.2.1
+oauth2client>=2.2.0
+google-api-python-client>=1.6.5

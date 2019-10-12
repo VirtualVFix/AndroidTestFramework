@@ -1,0 +1,13 @@
+[
+  "benchmarks", [
+    "regular", [
+      "test01", {"var1": "value1"},
+      "test02", {"var2": "value2"},
+      "test03", {"var3": "value3"}]
+    ],
+  "iozone", [
+    "regular", [
+      "test01", {"var1": "value1"}
+    ]
+  ]
+]
